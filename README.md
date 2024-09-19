@@ -1,1 +1,1 @@
-# marquel-ollivierre.github.io
+# Welcome to Marquel Ollivierre's Github page. I am a 3rd year Aerospace Engineering Major at Georgia Institute of Technology, and I would like to share some of my projects that I've worked on throughout my schooling on this page. 
